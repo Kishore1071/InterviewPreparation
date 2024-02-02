@@ -1,0 +1,11 @@
+given_word = "Javascript"
+word = given_word.lower()
+
+if word == word[::-1]:
+
+    print(f"The word {given_word} is a palindrome")
+    
+else:
+    
+    print(f"The word {given_word} is not a palindrome")
+

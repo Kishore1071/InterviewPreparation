@@ -1,0 +1,27 @@
+# Python students always get the input from the user, Javascript students work with static inputs
+Note: array and list are same, Console log and print are same
+
+** Do some research work for the required task
+
+
+1) Check a number is prime number or not
+2) Check a number is armstrong number or not
+3) Fibonacci upto ten numbers
+4) Generate a list of twenty "four-digit" values and each values of the list must be unique
+5) Sort a list of number in ascending order with out using built in sort function
+6) Find the minimum value of number list without using builtin function
+7) Given two integer numbers, return their product only if the product is equal to or lower than 1000. Otherwise, return their sum
+8) Iterate the numbers from one to ten, and in each iteration, print the sum of the current and previous number
+9) Create two arrays consists of number, if both arrays has same values, print or console log those values
+10) Check a word is palindrome or not
+
+11) Check whether a number is in array or not
+12) Celcius to farenheit converter
+13) Celcius to kelvin converter
+14) Print the series of numbers from 1 to the entered number
+15) Password generator
+16) Username creator by getting the name, age and birthyear from user, write the code as a function
+17) Bmi calculator
+18) Loan emi calculator
+19) Loan eligibility calculator
+20) Create a chatbot for Samsung Mobile, where people can enquiry details about lastest mobile for purchasing
