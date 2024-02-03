@@ -1,3 +1,6 @@
+// Write a Javascript program to check a number is Armstrong or not
+
+
 let number = 1634
 
 let new_number = String(number)

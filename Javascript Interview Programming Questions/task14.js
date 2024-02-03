@@ -1,4 +1,4 @@
-//  Generate a list of twenty "four-digit" values and each values of the list must be unique
+// Write a Javascript program to add 20 unique four digit numbers to an array
 
 let number_array = []
 
@@ -26,4 +26,4 @@ while (number_array.length < 20) {
     }
 }
 
-console.log(number_array);
+console.log(number_array)

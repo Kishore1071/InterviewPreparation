@@ -1,3 +1,4 @@
+// Write a Javascript program to generate password of eight character
 
 let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 let password = "";
@@ -11,4 +12,3 @@ for (let i = 0; i < required_length; i++) {
 }
 
 console.log(password);
-  

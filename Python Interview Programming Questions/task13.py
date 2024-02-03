@@ -1,3 +1,5 @@
+# Write a Python program to generate password of eight character
+
 import random
 
 charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
@@ -9,4 +11,3 @@ for i in range(required_length):
     password = password + charset[random_index]
 
 print(password)
-

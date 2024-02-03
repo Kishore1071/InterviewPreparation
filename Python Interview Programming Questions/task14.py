@@ -1,3 +1,5 @@
+# Write a Python program to add 20 unique four digit numbers to an array
+
 import random
 
 number_array = []
@@ -23,4 +25,3 @@ while len(number_array) < 20:
             number_array.append(int(random_number))
             
 print(number_array)
-

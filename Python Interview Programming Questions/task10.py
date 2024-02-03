@@ -1,3 +1,5 @@
+# Write a Python program to check a number is Armstrong or not
+
 number = 153
 
 string_number = str(number)
