@@ -1,3 +1,5 @@
+// Write a Javascript program to test that one word can be formed with the letters of another word
+
 let source = "inside"
 let sample = "den"
 
