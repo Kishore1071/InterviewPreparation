@@ -67,7 +67,7 @@
 
 # What is scope of variable?
 
-    Scope of variable defines the availability of a variable. The variable declared inside the function will have a local scope, it is available only inside the function and the variable declared outside the functions have a global scope.
+    Scope of variable defines the availability of a variable in file. The variable declared inside the function will have a local scope, it is available only inside the function and the variable declared outside the functions have a global scope.
 
 
 
