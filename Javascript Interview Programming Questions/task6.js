@@ -11,7 +11,12 @@ for (let i = 0; i <= 100; i ++) {
         
         for (let y = 2; y < i; y ++) {
 
-            if (i % y === 0) is_prime = false
+            if (i % y === 0) {
+
+                is_prime = false
+
+                break
+            }
         }
 
         if (is_prime === true) prime_numbers.push(i)
