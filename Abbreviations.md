@@ -5,3 +5,4 @@ HTTPS - HyperText Transfer Protocol Secure
 FTP - File Transfer Protocol
 
 IP - Internet Protocol
+JWT - JSON Web Token
